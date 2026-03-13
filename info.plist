@@ -200,6 +200,6 @@ This workflow allows a user to type in the modifier "call" and a space, and star
 	<key>version</key>
 	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string>https://github.com/jeremymturner</string>
+	<string>https://github.com/jeremymturner/qrz-alfred-workspace</string>
 </dict>
 </plist>
